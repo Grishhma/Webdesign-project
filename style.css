@@ -1,0 +1,91 @@
+ 
+
+@media (min-width: 768px) {
+    .navbar-brand.abs {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        text-align: center;
+    }
+}
+
+
+.navigation{
+    margin-bottom: 60px;
+    margin-top: 10px;
+    padding: 1em;
+}
+
+.logo{
+    color: black;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Montserrat';
+    font-size: 32px;
+    font-weight: 100;
+}
+
+.navigaton-list a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    color: #BDBDC6;
+}
+
+.navigaton-list a:hover {
+    color: black;
+}
+
+li{
+    font-weight: bold;
+    font-family: 'Montserrat';
+}
+
+
+#header {
+    background: url(https://images.unsplash.com/photo-1415795854641-f4a487a0fdc8?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80) center center / cover no-repeat;
+}
+
+ .new-post{
+    margin-left: 4.5em;
+}
+
+.accordian{
+    margin-top: -100px;
+    padding: 7.5em;
+}
+
+
+.page-navigation{
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.btn-toast{
+    margin-left: 7.3em;
+}
+
+.logo{
+    padding: 2em;
+}
+
+.logo span{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.navigation-list{
+    padding: 2em;
+}
+
+hr{   
+    margin: 32px 170px 0 170px;
+}
+
+.breadcrmb{
+    margin-left: 2.5em;
+    margin-top: -3em;
+    margin-bottom: 3em;
+}
